@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexd\\OneDrive\\Escritorio\\5TO  SEMESTRE\\PROGRAMACION MOVIL\\PContactos\\PContactos.csproj": {}
+    "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PContactos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexd\\OneDrive\\Escritorio\\5TO  SEMESTRE\\PROGRAMACION MOVIL\\PContactos\\PContactos.csproj": {
+    "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PContactos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexd\\OneDrive\\Escritorio\\5TO  SEMESTRE\\PROGRAMACION MOVIL\\PContactos\\PContactos.csproj",
+        "projectUniqueName": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PContactos.csproj",
         "projectName": "PContactos",
-        "projectPath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\5TO  SEMESTRE\\PROGRAMACION MOVIL\\PContactos\\PContactos.csproj",
+        "projectPath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PContactos.csproj",
         "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\5TO  SEMESTRE\\PROGRAMACION MOVIL\\PContactos\\obj\\",
+        "outputPath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

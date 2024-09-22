@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hy1Q8ijf6h7djj82fyvuvEMBwqDJk55EwZCgzs1Ot4a9evmLpHQxgRc5nGD2QAetyRCmDQTZkNJf1W8arRaPAg==",
+  "dgSpecHash": "MPpnAd2jHHupjMKAi1DmQqa/s+e3oKfVMJ2GIx406yFesEBgK+Tl2IshyMlcNmB6A1MhBKbgB4u/YQ/qdQzjYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\5TO  SEMESTRE\\PROGRAMACION MOVIL\\PContactos\\PContactos.csproj",
+  "projectFilePath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PContactos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexd\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\communitytoolkit.maui.7.0.1.nupkg.sha512",
     "C:\\Users\\alexd\\.nuget\\packages\\communitytoolkit.maui.core\\7.0.1\\communitytoolkit.maui.core.7.0.1.nupkg.sha512",

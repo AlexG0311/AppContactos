@@ -6,7 +6,7 @@
              Title="">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Edit" Order="Secondary" x:Name="Edit" />
+        <ToolbarItem Text="Edit" Order="Secondary" x:Name="Edit" Clicked="Editar" />
         <ToolbarItem Text="Delete" Order="Secondary" x:Name="Delete" Clicked="Deletee"/>
 
     </ContentPage.ToolbarItems>
@@ -22,10 +22,10 @@
 
             <Frame  Margin="0,30,0,5" CornerRadius="500" BackgroundColor="White" Padding="0" HeightRequest="100" WidthRequest="100" HasShadow="False" BorderColor="Transparent">
                 <Frame.GestureRecognizers>
-                    <TapGestureRecognizer x:Name="icon"  />
+                    <TapGestureRecognizer x:Name="icon" Tapped="aggImagen"  />
                 </Frame.GestureRecognizers>
                 <Image x:Name="contactImage"  Source="{Binding ContactPicture}" WidthRequest="100" Aspect="AspectFill" />
-            </Frame>
+            </Frame>    
 
 
 
@@ -56,7 +56,7 @@
                    Margin="0,0,80,0"
                    HeightRequest="60"
                    WidthRequest="60"
-                   Clicked="Llamar"
+                  
                    x:Name="Call"
                    Padding="0,0,0,0"/>
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PContactos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+386dd0f4b7a72d31a81a72116971e57171bbaadc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+263d809a94880dd4127a31a773d7a55e6c31923b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PContactos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PContactos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

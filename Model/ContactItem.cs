@@ -1,21 +1,107 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Linq;
+using System.ComponentModel; // Necesario para INotifyPropertyChanged
+using System.Runtime.CompilerServices; // Necesario para CallerMemberName
 using System.Text;
-using System.Threading.Tasks;
-namespace PContactos.Model // Asegúrate de usar el espacio de nombres correcto
-{
 
-    public class ContactItem
+namespace PContactos.Model
+{
+    public class ContactItem : INotifyPropertyChanged
     {
-        public string Name { get; set; }
-        public string Occupation { get; set; }
-        public string PhoneNumber { get; set; }
-        public string Address { get; set; }
-        public string Email { get; set; }
-        public string ContactPicture { get; set; }
+        private string name;
+        private string occupation;
+        private string phoneNumber;
+        private string address;
+        private string email;
+        private string contactPicture;
+
+        // Propiedades con notificación de cambios
+        public string Name
+        {
+            get => name;
+            set
+            {
+                if (name != value)
+                {
+                    name = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public string Occupation
+        {
+            get => occupation;
+            set
+            {
+                if (occupation != value)
+                {
+                    occupation = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public string PhoneNumber
+        {
+            get => phoneNumber;
+            set
+            {
+                if (phoneNumber != value)
+                {
+                    phoneNumber = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public string Address
+        {
+            get => address;
+            set
+            {
+                if (address != value)
+                {
+                    address = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public string Email
+        {
+            get => email;
+            set
+            {
+                if (email != value)
+                {
+                    email = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public string ContactPicture
+        {
+            get => contactPicture;
+            set
+            {
+                if (contactPicture != value)
+                {
+                    contactPicture = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        // Evento para notificar cuando una propiedad cambia
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        // Método que notifica a la UI de los cambios
+        protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
 
         // Constructor por defecto
         public ContactItem() { }

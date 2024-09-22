@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\actualizarcontacto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:actualizarcontacto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\newcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:newcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\model\\contactitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:model\\contactitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\perfilcontacto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:perfilcontacto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\perfilcontacto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:perfilcontacto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|c:\\users\\alexd\\onedrive\\escritorio\\pcontactos\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108CEBC9-F43B-4E18-9B14-2432BC3077C3}|PContactos.csproj|solutionrelative:inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:37:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewContact.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\NewContact.xaml.cs",
+              "RelativeDocumentMoniker": "NewContact.xaml.cs",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\NewContact.xaml.cs",
+              "RelativeToolTip": "NewContact.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:57:43.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizarContacto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\ActualizarContacto.xaml.cs",
+              "RelativeDocumentMoniker": "ActualizarContacto.xaml.cs",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\ActualizarContacto.xaml.cs",
+              "RelativeToolTip": "ActualizarContacto.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:46:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactItem.cs",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\Model\\ContactItem.cs",
+              "RelativeDocumentMoniker": "Model\\ContactItem.cs",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\Model\\ContactItem.cs",
+              "RelativeToolTip": "Model\\ContactItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T02:56:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\Inicio.xaml.cs",
+              "RelativeDocumentMoniker": "Inicio.xaml.cs",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\Inicio.xaml.cs",
+              "RelativeToolTip": "Inicio.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T02:54:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.xaml",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\Inicio.xaml",
+              "RelativeDocumentMoniker": "Inicio.xaml",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\Inicio.xaml",
+              "RelativeToolTip": "Inicio.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T02:50:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerfilContacto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PerfilContacto.xaml.cs",
+              "RelativeDocumentMoniker": "PerfilContacto.xaml.cs",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PerfilContacto.xaml.cs",
+              "RelativeToolTip": "PerfilContacto.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T02:33:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerfilContacto.xaml",
+              "DocumentMoniker": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PerfilContacto.xaml",
+              "RelativeDocumentMoniker": "PerfilContacto.xaml",
+              "ToolTip": "C:\\Users\\alexd\\OneDrive\\Escritorio\\PContactos\\PerfilContacto.xaml",
+              "RelativeToolTip": "PerfilContacto.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T02:02:56.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

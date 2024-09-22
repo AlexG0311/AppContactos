@@ -1,6 +1,8 @@
 using Microsoft.Maui.Controls;
 using static PContactos.App;
+using The49.Maui.BottomSheet;
 using PContactos.Model;
+using CommunityToolkit.Maui.Alerts;
 using Microsoft.Maui.ApplicationModel.Communication;
 using System.Collections.ObjectModel;
 
@@ -60,5 +62,46 @@ public partial class PerfilContacto : ContentPage
         Navigation.PopAsync();
     }
 
+    private async void aggImagen(object sender, EventArgs e)
+    {
+        try
+        {
+            var result = await MediaPicker.PickPhotoAsync(new MediaPickerOptions
+            {
+                Title = "Selecciona una nueva imagen de perfil"
+            });
+
+            if (result != null)
+            {
+                var stream = await result.OpenReadAsync();
+                contactImage.Source = ImageSource.FromStream(() => stream);
+
+                // Actualiza la imagen en el modelo de contactos
+                var contact = App.selectedContact;
+                if (contact != null)
+                {
+                    contact.ContactPicture = result.FullPath; // Guarda la ruta de la imagen en el objeto ContactItem
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            await DisplayAlert("Error", $"Ocurrió un error al seleccionar la imagen: {ex.Message}", "OK");
+        }
+    }
+
+    private async void Editar(object sender, EventArgs e)
+    {
+        var pagina = new ActualizarContacto();
+        pagina.CornerRadius = 20;
+        pagina.HasBackdrop = true;
+        await pagina.ShowAsync(Window);
+
+
+    }
 
 }
+
+
+
+
